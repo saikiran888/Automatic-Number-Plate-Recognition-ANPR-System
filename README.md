@@ -36,7 +36,5 @@ This project leverages the following technologies:
 
 To get started, clone this repository and install the required dependencies:
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
+
+- **pip install -r requirements.txt

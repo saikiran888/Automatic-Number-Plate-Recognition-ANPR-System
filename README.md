@@ -37,4 +37,4 @@ This project leverages the following technologies:
 To get started, clone this repository and install the required dependencies:
 
 
-- **pip install -r requirements.txt
+- **pip install -r requirements.txt**

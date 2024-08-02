@@ -6,14 +6,7 @@ This project leverages the following technologies:
 - **OpenCV:** For image processing, filtering, and contour detection.
 - **EasyOCR:** For extracting text from images using Optical Character Recognition (OCR).
 
-## Installation
 
-To get started, clone this repository and install the required dependencies:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
 
 ## Key Features
 
@@ -37,3 +30,13 @@ pip install -r requirements.txt
 
 - **Process multiple images with different formats.**
 - **Easily customizable for various image resolutions.**
+
+
+## Installation
+
+To get started, clone this repository and install the required dependencies:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
